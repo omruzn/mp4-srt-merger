@@ -64,4 +64,4 @@ E:\birlestir
 - ✅ Only files with **matching names** are merged.  
 - 🧪 `mkvmerge` must be installed and accessible from command line.
 
-Created with ❤️ by [Ömer Uzun](https://github.com/omruzn)
+Created with ❤️ by [Ömer Uzun](https://github.com/uzunomer)
