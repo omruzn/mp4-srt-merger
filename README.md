@@ -21,7 +21,7 @@ mkvmerge --version
 
 ## 📦 Installation / Kurulum
 ```bash
-git clone https://github.com/omruzn/mp4-srt-merger.git
+git clone https://github.com/uzunomer/mp4-srt-merger.git
 cd mp4-srt-merger
 ```
 
